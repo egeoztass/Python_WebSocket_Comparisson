@@ -1,0 +1,250 @@
+Test 1:
+Average RTT: 0.0058 seconds
+Test 1:
+Average CPU Usage: 22.56%
+
+Test 2:
+Average RTT: 0.0037 seconds
+Test 2:
+Average CPU Usage: 17.765%
+
+Test 3:
+Average RTT: 0.0044 seconds
+Test 3:
+Average CPU Usage: 19.799999999999997%
+
+Test 4:
+Average RTT: 0.0034 seconds
+Test 4:
+Average CPU Usage: 25.44%
+
+Test 5:
+Average RTT: 0.0069 seconds
+Test 5:
+Average CPU Usage: 17.185000000000002%
+
+Test 6:
+Average RTT: 0.0028 seconds
+Test 6:
+Average CPU Usage: 21.07%
+
+Test 7:
+Average RTT: 0.0032 seconds
+Test 7:
+Average CPU Usage: 21.764999999999997%
+
+Test 8:
+Average RTT: 0.0036 seconds
+Test 8:
+Average CPU Usage: 16.915%
+
+Test 9:
+Average RTT: 0.0030 seconds
+Test 9:
+Average CPU Usage: 14.864999999999998%
+
+Test 10:
+Average RTT: 0.0031 seconds
+Test 10:
+Average CPU Usage: 16.964999999999996%
+
+Test 11:
+Average RTT: 0.0038 seconds
+Test 11:
+Average CPU Usage: 20.375000000000004%
+
+Test 12:
+Average RTT: 0.0038 seconds
+Test 12:
+Average CPU Usage: 22.509999999999998%
+
+Test 13:
+Average RTT: 0.0061 seconds
+Test 13:
+Average CPU Usage: 18.345000000000006%
+
+Test 14:
+Average RTT: 0.0039 seconds
+Test 14:
+Average CPU Usage: 22.540000000000003%
+
+Test 15:
+Average RTT: 0.0044 seconds
+Test 15:
+Average CPU Usage: 14.145%
+
+Test 16:
+Average RTT: 0.0035 seconds
+Test 16:
+Average CPU Usage: 13.855%
+
+Test 17:
+Average RTT: 0.0041 seconds
+Test 17:
+Average CPU Usage: 14.455000000000002%
+
+Test 18:
+Average RTT: 0.0048 seconds
+Test 18:
+Average CPU Usage: 13.905000000000001%
+
+Test 19:
+Average RTT: 0.0035 seconds
+Test 19:
+Average CPU Usage: 12.659999999999998%
+
+Test 20:
+Average RTT: 0.0042 seconds
+Test 20:
+Average CPU Usage: 17.68%
+
+Test 21:
+Average RTT: 0.0034 seconds
+Test 21:
+Average CPU Usage: 16.794999999999998%
+
+Test 22:
+Average RTT: 0.0041 seconds
+Test 22:
+Average CPU Usage: 19.305%
+
+Test 23:
+Average RTT: 0.0060 seconds
+Test 23:
+Average CPU Usage: 18.32%
+
+Test 24:
+Average RTT: 0.0036 seconds
+Test 24:
+Average CPU Usage: 17.085%
+
+Test 25:
+Average RTT: 0.0056 seconds
+Test 25:
+Average CPU Usage: 19.38%
+
+Test 26:
+Average RTT: 0.0034 seconds
+Test 26:
+Average CPU Usage: 13.930000000000001%
+
+Test 27:
+Average RTT: 0.0028 seconds
+Test 27:
+Average CPU Usage: 15.179999999999998%
+
+Test 28:
+Average RTT: 0.0047 seconds
+Test 28:
+Average CPU Usage: 28.750000000000007%
+
+Test 29:
+Average RTT: 0.0055 seconds
+Test 29:
+Average CPU Usage: 28.384999999999998%
+
+Test 30:
+Average RTT: 0.0064 seconds
+Test 30:
+Average CPU Usage: 14.409999999999997%
+
+Test 31:
+Average RTT: 0.0035 seconds
+Test 31:
+Average CPU Usage: 20.035%
+
+Test 32:
+Average RTT: 0.0040 seconds
+Test 32:
+Average CPU Usage: 20.569999999999993%
+
+Test 33:
+Average RTT: 0.0057 seconds
+Test 33:
+Average CPU Usage: 16.225%
+
+Test 34:
+Average RTT: 0.0034 seconds
+Test 34:
+Average CPU Usage: 18.5%
+
+Test 35:
+Average RTT: 0.0028 seconds
+Test 35:
+Average CPU Usage: 17.84%
+
+Test 36:
+Average RTT: 0.0030 seconds
+Test 36:
+Average CPU Usage: 14.504999999999999%
+
+Test 37:
+Average RTT: 0.0043 seconds
+Test 37:
+Average CPU Usage: 24.740000000000002%
+
+Test 38:
+Average RTT: 0.0041 seconds
+Test 38:
+Average CPU Usage: 15.844999999999999%
+
+Test 39:
+Average RTT: 0.0032 seconds
+Test 39:
+Average CPU Usage: 19.1%
+
+Test 40:
+Average RTT: 0.0062 seconds
+Test 40:
+Average CPU Usage: 25.080000000000005%
+
+Test 41:
+Average RTT: 0.0035 seconds
+Test 41:
+Average CPU Usage: 19.965%
+
+Test 42:
+Average RTT: 0.0042 seconds
+Test 42:
+Average CPU Usage: 19.61%
+
+Test 43:
+Average RTT: 0.0044 seconds
+Test 43:
+Average CPU Usage: 18.229999999999997%
+
+Test 44:
+Average RTT: 0.0034 seconds
+Test 44:
+Average CPU Usage: 23.145%
+
+Test 45:
+Average RTT: 0.0044 seconds
+Test 45:
+Average CPU Usage: 13.725%
+
+Test 46:
+Average RTT: 0.0033 seconds
+Test 46:
+Average CPU Usage: 18.43%
+
+Test 47:
+Average RTT: 0.0035 seconds
+Test 47:
+Average CPU Usage: 22.005000000000003%
+
+Test 48:
+Average RTT: 0.0033 seconds
+Test 48:
+Average CPU Usage: 17.715%
+
+Test 49:
+Average RTT: 0.0052 seconds
+Test 49:
+Average CPU Usage: 18.085%
+
+Test 50:
+Average RTT: 0.0039 seconds
+Test 50:
+Average CPU Usage: 18.755000000000006%
+

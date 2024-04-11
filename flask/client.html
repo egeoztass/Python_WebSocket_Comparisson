@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WebSocket Test</title>
+  </head>
+  <body>
+    <script>
+      var ws = new WebSocket("ws://34.70.73.45:8080/echo");
+      ws.onopen = function () {
+        console.log("Connected");
+        ws.send("Hello, server!");
+      };
+      ws.onmessage = function (event) {
+        console.log("Received: " + event.data);
+      };
+      ws.onclose = function () {
+        console.log("Disconnected");
+      };
+    </script>
+  </body>
+</html>
