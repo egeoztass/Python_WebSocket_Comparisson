@@ -22,7 +22,7 @@ Flask-SocketIO provided slightly more consistent RTT performance, while the `web
 
 ## Previous Work
 
-The repository also includes a high-scoring Discord clone project, developed as part of a university course, which serves as a practical example of WebSocket usage.
+The repository also includes a high-scoring Discord clone project, developed as part of a university course, which serves as a practical example of WebSocket usage with Python.
 
 ## Contributing
 
